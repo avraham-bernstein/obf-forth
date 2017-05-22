@@ -1,4 +1,4 @@
-# README.md: Obfuscated Forth Compiler Project
+# README: Obfuscated Forth Compiler Project
 
 Implementation status: TBD. (Once upon a time I built such a tool, but I lost the source code).
 
@@ -31,7 +31,7 @@ Also it would be an excellent first project to "cut my teeth" on WASM.
 ## --
 <address>
 <br>AUTHOR: Avraham DOT Bernstein AT gmail
-<br>DATE: 2017-05-22T20:44:00Z
+<br>DATE: 2017-05-22T21:31:00Z
 <br>Copyright (c) Avraham Bernstein, Jerusalem ISRAEL. All rights reserved.
 <br>LICENSE: Apache License, Version 2.0: https://opensource.org/licenses/Apache-2.0
 </address>
