@@ -1,6 +1,6 @@
 # README.md: Obfuscated Forth Compiler Project
 
-Implementation status: TBD
+Implementation status: TBD. (Once upon a time I built such a tool, but I lost the source code).
 
 The [FORTH](https://en.wikipedia.org/wiki/Forth_(programming_language)) programming language produces very dense and very
 efficient interpreted code. In order to accomplish these feats, it uses RPN (reverse Polish notation) syntax which greatly 
@@ -26,11 +26,12 @@ have the tools to automatically deal with them.
 
 Besides implementing obfuscated FORTH in C,
 today it may be worthwhile to implement it also using [Web Assembler (WASM)](http://webassembly.org/).
+Also it would be an excellent first project to "cut my teeth" on WASM.
 
 ## --
 <address>
 <br>AUTHOR: Avraham DOT Bernstein AT gmail
-<br>DATE: 2017-05-22T20:29:00Z
+<br>DATE: 2017-05-22T20:44:00Z
 <br>Copyright (c) Avraham Bernstein, Jerusalem ISRAEL. All rights reserved.
 <br>LICENSE: Apache License, Version 2.0: https://opensource.org/licenses/Apache-2.0
 </address>
