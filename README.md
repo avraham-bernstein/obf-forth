@@ -21,8 +21,7 @@ say based upon the low 4 or 8 bits of its MAC address or subscriber UUID.
 
 There are other projects that could benefit from obfuscated Forth.
 
-Most assembly code reverse engineering hackers dislike having to deal with VMs (i.e. virtual machines) because they don't
-have the tools to automatically deal with them.
+Most assembly code reverse engineering hackers dislike having to deal with custom VMs (i.e. virtual machines) because they don't have the tools to automatically handle them.
 
 Besides implementing obfuscated FORTH in C,
 today it may be worthwhile to implement it also using [Web Assembler (WASM)](http://webassembly.org/).
@@ -31,7 +30,7 @@ Also it would be an excellent first project to "cut my teeth" on WASM.
 ## --
 <address>
 <br>AUTHOR: Avraham DOT Bernstein AT gmail
-<br>DATE: 2017-05-22T21:31:00Z
+<br>DATE: 2017-05-22T21:51:00Z
 <br>Copyright (c) Avraham Bernstein, Jerusalem ISRAEL. All rights reserved.
 <br>LICENSE: Apache License, Version 2.0: https://opensource.org/licenses/Apache-2.0
 </address>
